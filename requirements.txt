@@ -1,0 +1,24 @@
+# ==============================
+# Projet : Prédiction de la solubilité aqueuse (ESOL)
+# Langage : Python
+# Description : Bibliothèques nécessaires pour la chimie,
+# le machine learning et la visualisation
+# ==============================
+
+# Manipulation des données
+pandas>=1.5
+numpy>=1.23
+
+# Visualisation
+matplotlib>=3.6
+seaborn>=0.12
+
+# Machine Learning
+scikit-learn>=1.2
+
+# Chimie (RDKit)
+rdkit>=2022.09
+
+# Jupyter Notebook
+jupyter
+ipykernel
